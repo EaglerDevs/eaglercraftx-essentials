@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+ModSide: CLIENT
+FMLCorePluginContainsFMLMod: Yes, yes it does
+TweakClass: gg.essential.loader.stage0.EssentialSetupTweaker
+TweakOrder: 0
